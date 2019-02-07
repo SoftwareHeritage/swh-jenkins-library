@@ -1,3 +1,7 @@
+// Copyright (C) 2019 The Software Heritage developers
+// License: MIT/Expat
+// See top-level LICENSE file for more information
+
 import jenkins.model.Jenkins
 
 @NonCPS
